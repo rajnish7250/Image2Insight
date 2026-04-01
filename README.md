@@ -1,5 +1,5 @@
 # Image2Insight
-
+Updated to Image2Insight project structure
 ## Overview
 Transforming images into meaningful insights using OCR and NLP
 
